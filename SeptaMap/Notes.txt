@@ -1,0 +1,6 @@
+﻿Probably need to look into GIS json instead of just the location JSON...
+
+https://developers.arcgis.com/rest/services-reference/enterprise/query-feature-service-layer-.htm
+
+SEPTA API Explorer: https://gis-septa.hub.arcgis.com/datasets/SEPTA::regional-rail-lines/api
+
